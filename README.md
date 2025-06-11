@@ -21,7 +21,7 @@ The Algonive Task Manager is a simple and efficient web-based application that h
 - **CSS**
 - **JavaScript**
 
----
+--
 
 ## 🚀 Getting Started
 
